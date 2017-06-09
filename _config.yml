@@ -1,0 +1,12 @@
+
+title: Eduardo Borges
+email: eborgescb@gmail.com
+description:  "Esse é um blog minimalista criado para aprender como funciona essa ferramenta linda que é o Jekyll."
+baseurl: "/blog"
+url: "http://eborges.me" 
+twitter_username: eborgesdev
+github_username:  eborgesdev
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
